@@ -12,7 +12,7 @@ public class LinkeList {
     public static void main(String[] args) {
         ArrayList<Integer> arrList = new ArrayList<>();
         long startA = System.currentTimeMillis();
-        for (int i = 0; i < 1_000_000; i++) {
+        for (int i = 0; i < 1_000; i++) {
         arrList.add(0, i);
         }
         long stopA = System.currentTimeMillis();
@@ -20,7 +20,7 @@ public class LinkeList {
 
         LinkedList<Integer> linkedList = new LinkedList<>();
         long startB = System.currentTimeMillis();
-        for (int i = 0; i < 1_000_000; i++) {
+        for (int i = 0; i < 1_000; i++) {
             linkedList.add(0, i);
         }
         long stopB = System.currentTimeMillis();
