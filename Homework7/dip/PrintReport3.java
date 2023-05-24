@@ -1,4 +1,4 @@
-package OOP.Seminars.sem_6.dip;
+package Homework7;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -8,7 +8,7 @@ public class PrintReport3 extends Output {
 
     @Override
     public void output(List<ReportItem> items) {
-        String fileName = "OOP/Seminars/sem_6/dip/order.txt";
+        String fileName = "Homework7/dip/order.txt";
         try (FileWriter writer = new FileWriter(fileName, false)) {
             for (ReportItem item : items) {
                 writer.write("printer " + item.getDescription() + " - " + item.getAmount() + "\n");

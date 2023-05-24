@@ -1,4 +1,4 @@
-package OOP.Seminars.sem_6;
+package Homework7;
 
 public class Program {
 

@@ -1,4 +1,4 @@
-package OOP.Seminars.sem_6.isp;
+package Homework7;
 
 public interface WebMoneyPayable {
 

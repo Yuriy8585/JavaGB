@@ -1,4 +1,4 @@
-package OOP.Seminars.sem_6.ocp;
+package Homework7;
 
 public class RightTriangle implements Shape {
 

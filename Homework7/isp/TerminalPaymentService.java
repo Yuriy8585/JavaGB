@@ -1,4 +1,4 @@
-package OOP.Seminars.sem_6.isp;
+package Homework7;
 
 public class TerminalPaymentService extends PaymentService implements CreditCardPayable, WebMoneyPayable {
     @Override

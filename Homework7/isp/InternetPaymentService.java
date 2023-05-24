@@ -1,4 +1,4 @@
-package OOP.Seminars.sem_6.isp;
+package Homework7;
 
 public class InternetPaymentService extends PaymentService  implements PhonePayable, CreditCardPayable, WebMoneyPayable {
     @Override

@@ -1,4 +1,4 @@
-package OOP.Seminars.sem_6.dip;
+package Homework7;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package OOP.Seminars.sem_6.lsp;
+package Homework7;
 
 /**
  * T
