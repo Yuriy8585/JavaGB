@@ -1,4 +1,4 @@
-package Homework8;
+package Homework8.observer;
 
 public class Worker implements Observer {
     private  String name;

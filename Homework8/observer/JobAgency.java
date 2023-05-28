@@ -1,4 +1,4 @@
-package Homework8;
+package Homework8.observer;
 
 import java.util.ArrayList;
 import java.util.List;

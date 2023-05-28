@@ -1,4 +1,4 @@
-package Homework8;
+package Homework8.observer;
 
 public class Master implements Observer {
     private  String name;

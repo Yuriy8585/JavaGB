@@ -1,4 +1,4 @@
-package Homework8;
+package Homework8.observer;
 
 /**
  * Интерфейс наблюдателя (соискателя, человек в поисках работы)

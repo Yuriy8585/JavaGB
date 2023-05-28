@@ -1,4 +1,4 @@
-package Homework8;
+package Homework8.adapter;
 
 public class ST500Info implements SensorTemperature {
 
