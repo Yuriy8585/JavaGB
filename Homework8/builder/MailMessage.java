@@ -1,4 +1,4 @@
-package Homework8;
+package Homework8.builder;
 
 public class MailMessage {
 
