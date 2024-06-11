@@ -171,7 +171,7 @@ function HomePage() {
             </a>
           </div>
           <div className="breadcrumb__box-link">
-            <a className="breadcrumb__link" href="catalog.html">
+          <a className="breadcrumb__link" href="catalog.html">
               MEN
             </a>
           </div>
